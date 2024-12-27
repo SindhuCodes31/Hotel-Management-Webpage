@@ -1,5 +1,4 @@
-Hotel Management Webpage
-Overview
+
 This is a fully responsive and visually appealing hotel management webpage designed using HTML, CSS, and JavaScript. The project showcases modern design principles, a user-friendly interface, and interactive elements to provide a seamless user experience. The webpage is suitable for hotels, resorts, or hospitality services to display their offerings, rooms, and customer services.
 
 Features
